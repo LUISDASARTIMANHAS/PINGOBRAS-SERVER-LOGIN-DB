@@ -1,0 +1,16 @@
+{
+  "booklistCollection": [
+    {
+      "id": "3a9fea82-8805-46c9-82b6-bf2a9b8a6893",
+      "userid": "6236e688-40a0-4189-b17f-f31ebbff5abf",
+      "title": "Loti's booklist",
+      "bookmarks": []
+    },
+    {
+      "id": "5b6efd27-af77-4f8e-835f-ffc33b6465fe",
+      "userid": "84f80465-df7d-44df-8156-d8b26b81c33a",
+      "title": "test",
+      "bookmarks": []
+    }
+  ]
+}

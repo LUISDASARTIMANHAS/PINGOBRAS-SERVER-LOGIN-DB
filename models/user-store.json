@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "firstName": "Loti",
+      "lastName": "Ibrahimi",
+      "email": "loti.ibrahimi@outlook.com",
+      "password": "bookit",
+      "id": "6236e688-40a0-4189-b17f-f31ebbff5abf"
+    },
+    {
+      "firstName": "Homer",
+      "lastName": "Simpson",
+      "email": "homer@simpson",
+      "password": "test",
+      "id": "84f80465-df7d-44df-8156-d8b26b81c33a"
+    },
+    {
+      "firstName": "Marge",
+      "lastName": "Simpson",
+      "email": "marge@simspon",
+      "password": "bookit",
+      "id": "b1d55abd-66e9-4d8c-9b0e-e04e36a258a4"
+    },
+    {
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test@test",
+      "password": "test",
+      "id": "641ecacb-8f9d-41aa-9fdc-2f44de340933"
+    }
+  ]
+}

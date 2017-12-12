@@ -1,0 +1,26 @@
+<table class="ui inverted table">
+  <thead>
+    <tr>
+      <th>Link</th>
+      <th>Website</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    {{#each booklist.bookmarks}}
+      <tr>
+        <td>
+          <a href='{{link}}'target="_blank"> {{link}} </a>
+        </td>
+        <td>
+          {{website}}
+        </td>
+        <td>
+          <a href="/booklist/{{../booklist.id}}/deletebookmark/{{id}}" class="ui icon button">
+            <i class="icon trash"></i>
+          </a>
+        </td>
+      </tr>
+    {{/each}}
+  </tbody>
+</table>

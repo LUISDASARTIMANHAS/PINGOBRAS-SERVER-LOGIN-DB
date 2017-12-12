@@ -1,0 +1,60 @@
+{{> menu id="bookmarks"}}
+
+<section class="ui inverted center aligned middle aligned segment">
+  <h1 class="ui header">
+    Welcome to BookIt!
+  </h1>
+  <p>
+    A small app enabling you to organise your bookmarks the way you want!
+  </p>
+  <hr>
+  
+  <div class="ui compact icon message">
+    <i class="notched circle loading icon"></i>
+      <div class="content">
+        <div class="header">
+          Just one second
+        </div>
+      <p> Number of bookmarks in store: {{Count}} </p>
+    </div>
+  </div>
+  
+  <div class="ui two column grid">
+  <div class="column">
+    <div class="ui inverted segment">
+      <div class="ui left aligned segment">
+        <h2> Create your first booklist now! </h2>
+        <h3> How does it work? </h3>
+        <hr>
+         <ol class="ui left aligned list">
+          <li> Type in your booklist title below, and press 'add booklist' </li>
+          <li> Click the file button to enter your chosen booklist. </li>
+          <li> Now, simply copy in the URL of your site you wish to mark, and give it a suitable title. </li>
+          <li> You can also delete you're created booklists/bookmarks through the delete button. </li>
+         </ol>
+           <p>
+             BookIt enables you to keep record and maintain a simple structure on your chosen bookmarks, which are kepted secure under your 
+             very own personal accounts. So what are you waiting for? 
+             Go BookIt!
+           <p>
+      </div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="ui inverted segment">
+      <img src="https://cdn.gomix.com/c15fa4b2-c9b9-4a77-8d33-d6cc34720672%2F17777_shot_1292109354.png">
+    </div>
+  </div>
+</div>
+</section>
+
+<section class="ui inverted segment">
+  <div class="ui orange message">
+    <div class="header">
+      Notice: Please Acknowledge
+    </div>
+    <p> Profound names are not permitted </p>
+  </div>
+  {{> listbooklists}}
+  {{> addbooklist}}
+</section>
