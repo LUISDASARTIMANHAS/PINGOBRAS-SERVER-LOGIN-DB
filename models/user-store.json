@@ -27,6 +27,13 @@
       "email": "test@test",
       "password": "test",
       "id": "641ecacb-8f9d-41aa-9fdc-2f44de340933"
+    },
+    {
+      "firstName": "bella",
+      "lastName": "bella",
+      "email": "bella",
+      "password": "bella",
+      "id": "1edc21ea-1c67-4243-adf0-339d237bedaa"
     }
   ]
 }
