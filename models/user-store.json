@@ -48,6 +48,13 @@
       "email": "aw",
       "password": "wa",
       "id": "9c0f6aa5-f040-4630-8d97-97373be7fb78"
+    },
+    {
+      "firstName": "me",
+      "lastName": "me",
+      "email": "me@me.me",
+      "password": "me",
+      "id": "8a2d9a5f-c0d4-48cb-98a3-13db7ded4ff0"
     }
   ]
 }
