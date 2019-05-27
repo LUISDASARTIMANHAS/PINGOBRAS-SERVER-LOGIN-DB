@@ -69,6 +69,13 @@
       "email": "JdKurwe@wp.pl",
       "password": "Krolik210",
       "id": "85bda63e-1cf6-4c2e-b869-4f7c1331f7b2"
+    },
+    {
+      "firstName": "Floris",
+      "lastName": "Bastiaan",
+      "email": "florisbastiaan3@gmail.com",
+      "password": "test1",
+      "id": "493ae81b-300f-41f3-b7c7-b4d474925922"
     }
   ]
 }
