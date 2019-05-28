@@ -76,6 +76,20 @@
       "email": "florisbastiaan3@gmail.com",
       "password": "test1",
       "id": "493ae81b-300f-41f3-b7c7-b4d474925922"
+    },
+    {
+      "firstName": "a1",
+      "lastName": "a2",
+      "email": "a3@a4.a5",
+      "password": "a6a7a8",
+      "id": "d250086f-103e-4d58-9956-8ef60dc07ee9"
+    },
+    {
+      "firstName": "adadada",
+      "lastName": "dadadada",
+      "email": "teeeeeste@gmail.com",
+      "password": "teeeeeste@gmail.com",
+      "id": "4427f946-6455-433c-ad85-1a8a1cbc7cbc"
     }
   ]
 }
