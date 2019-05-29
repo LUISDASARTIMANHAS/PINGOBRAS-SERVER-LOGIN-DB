@@ -90,6 +90,13 @@
       "email": "teeeeeste@gmail.com",
       "password": "teeeeeste@gmail.com",
       "id": "4427f946-6455-433c-ad85-1a8a1cbc7cbc"
+    },
+    {
+      "firstName": "meow",
+      "lastName": "meow",
+      "email": "1@1.com",
+      "password": "nou",
+      "id": "a72b58e6-a3a4-431e-a5c8-fa613eda787e"
     }
   ]
 }
