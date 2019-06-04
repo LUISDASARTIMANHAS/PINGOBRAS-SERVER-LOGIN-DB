@@ -97,6 +97,13 @@
       "email": "1@1.com",
       "password": "nou",
       "id": "a72b58e6-a3a4-431e-a5c8-fa613eda787e"
+    },
+    {
+      "firstName": "Jason",
+      "lastName": "baker",
+      "email": "baker7255@gmail.com",
+      "password": "1111",
+      "id": "670d71e8-36eb-4823-a77b-150c94d38373"
     }
   ]
 }
