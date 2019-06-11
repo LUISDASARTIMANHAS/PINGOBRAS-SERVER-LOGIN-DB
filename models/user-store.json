@@ -111,6 +111,13 @@
       "email": "teddymisty132@gmail.com",
       "password": "Funtime132",
       "id": "863addbf-1b5c-4703-a5ad-0822a96148d2"
+    },
+    {
+      "firstName": "Floris",
+      "lastName": "Bastiaan",
+      "email": "florisbastiaan@gmail.com",
+      "password": "koek",
+      "id": "bc9cb7a7-bbc0-4eff-ac35-41df603ed02a"
     }
   ]
 }
