@@ -160,6 +160,13 @@
       "email": "ththhabichip@gmail.com",
       "password": "Hanh",
       "id": "b05ed138-af75-4960-8864-edba061863d8"
+    },
+    {
+      "firstName": "Roger",
+      "lastName": "Nobrega",
+      "email": "rogerhnn@hotmail.com",
+      "password": "roger32",
+      "id": "b7c3bfaf-f3d4-4f55-9076-84fdc403a49b"
     }
   ]
 }
