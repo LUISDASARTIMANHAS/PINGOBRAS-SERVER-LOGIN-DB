@@ -195,6 +195,13 @@
       "email": "",
       "password": "",
       "id": "0aef7a43-61b7-430e-877c-56c6d30a7c49"
+    },
+    {
+      "firstName": "Zack",
+      "lastName": "Qattan",
+      "email": "zack@ukaton.com",
+      "password": "Password1!",
+      "id": "1b0f636b-83a3-4046-a1d3-b57aa467001e"
     }
   ]
 }
