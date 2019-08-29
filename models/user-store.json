@@ -202,6 +202,13 @@
       "email": "zack@ukaton.com",
       "password": "Password1!",
       "id": "1b0f636b-83a3-4046-a1d3-b57aa467001e"
+    },
+    {
+      "firstName": "Cliffordd",
+      "lastName": "Robinsonn",
+      "email": "cliffordr12344@gmail.com",
+      "password": "Clifford122",
+      "id": "c85990ff-73cb-4e8a-bac3-556bda60990c"
     }
   ]
 }
