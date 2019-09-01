@@ -216,6 +216,13 @@
       "email": "123@123.123",
       "password": "123",
       "id": "b6b80dbb-9c02-4acc-9ba5-591e0b61f39a"
+    },
+    {
+      "firstName": "Godmode",
+      "lastName": "Guy",
+      "email": "dan.hattingh.11@gmail.com",
+      "password": "LOLKAPER",
+      "id": "d789f6b1-b61c-4970-9d2d-21f7b178adde"
     }
   ]
 }
