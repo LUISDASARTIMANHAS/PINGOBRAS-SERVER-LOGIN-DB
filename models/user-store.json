@@ -237,6 +237,13 @@
       "email": "raid",
       "password": "root",
       "id": "08edd34e-f65c-4cdc-a104-d7a5c3bd2e44"
+    },
+    {
+      "firstName": "no",
+      "lastName": "u",
+      "email": "no@u.com",
+      "password": "hello",
+      "id": "65fc147b-a059-429c-9180-f9ec6564b544"
     }
   ]
 }
