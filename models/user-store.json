@@ -244,6 +244,13 @@
       "email": "no@u.com",
       "password": "hello",
       "id": "65fc147b-a059-429c-9180-f9ec6564b544"
+    },
+    {
+      "firstName": "Jonathas",
+      "lastName": "jooj",
+      "email": "jonathasgamer727@gmail.com",
+      "password": "jooj",
+      "id": "e7d7c997-ec61-4145-a87d-32af56273439"
     }
   ]
 }
