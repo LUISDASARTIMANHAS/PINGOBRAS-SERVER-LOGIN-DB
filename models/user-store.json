@@ -265,6 +265,13 @@
       "email": "elisascamillo@gmail.com",
       "password": "trustnoone",
       "id": "9086b64d-841a-4b19-974e-34a494176be6"
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "id": "42aca9ee-95e8-4bad-a74f-de730f9ee84e"
     }
   ]
 }
