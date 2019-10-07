@@ -272,6 +272,13 @@
       "email": "",
       "password": "",
       "id": "42aca9ee-95e8-4bad-a74f-de730f9ee84e"
+    },
+    {
+      "firstName": "Yoo Homie",
+      "lastName": "lets go get this bread",
+      "email": "breadeater@gmail.com",
+      "password": "hoesbedabbin",
+      "id": "a2c28798-9cd4-4274-8d21-9eb63d08ab1d"
     }
   ]
 }
