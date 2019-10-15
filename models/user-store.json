@@ -286,6 +286,13 @@
       "email": "hi@gmail.com",
       "password": "kypvuk-8xeTwe-dansyb",
       "id": "d2421591-e292-4267-99f7-d482849689a4"
+    },
+    {
+      "firstName": "Jessie",
+      "lastName": "Yao",
+      "email": "yaojessies@gmail.com",
+      "password": "abcdef",
+      "id": "1d8b1121-74e7-43a2-9810-bc42b5816716"
     }
   ]
 }
