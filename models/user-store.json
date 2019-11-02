@@ -314,6 +314,13 @@
       "email": "test",
       "password": "test",
       "id": "37f155b7-054e-488b-8b55-acdfdc968fc2"
+    },
+    {
+      "firstName": "test",
+      "lastName": "test",
+      "email": "testemail@gmail.com",
+      "password": "testpassword",
+      "id": "1bb08735-e883-4c77-aa80-e8316d34eaf9"
     }
   ]
 }
