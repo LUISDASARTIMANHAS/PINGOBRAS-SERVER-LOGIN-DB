@@ -321,6 +321,13 @@
       "email": "testemail@gmail.com",
       "password": "testpassword",
       "id": "1bb08735-e883-4c77-aa80-e8316d34eaf9"
+    },
+    {
+      "firstName": "gogle",
+      "lastName": "golge",
+      "email": "google@gmail.com",
+      "password": "google",
+      "id": "f478da69-c2c3-47a6-8ccb-a46c191a6574"
     }
   ]
 }
