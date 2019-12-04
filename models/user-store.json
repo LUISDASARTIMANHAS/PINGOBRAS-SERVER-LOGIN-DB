@@ -370,6 +370,13 @@
       "email": "neonztest@glitch.com",
       "password": "12345NEONz",
       "id": "0fd3da53-228a-4b6b-87c3-fa31c326dc69"
+    },
+    {
+      "firstName": "Linh",
+      "lastName": "Cute",
+      "email": "linhcute@gmail.com",
+      "password": "linhcute",
+      "id": "bf112b6a-9cfb-476a-82dc-1a01e96ce686"
     }
   ]
 }
