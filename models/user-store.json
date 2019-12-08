@@ -377,6 +377,13 @@
       "email": "linhcute@gmail.com",
       "password": "linhcute",
       "id": "bf112b6a-9cfb-476a-82dc-1a01e96ce686"
+    },
+    {
+      "firstName": "test",
+      "lastName": "case",
+      "email": "test@test.com",
+      "password": "123test",
+      "id": "58d03a31-9d68-42a4-9513-89d40e59b75a"
     }
   ]
 }
