@@ -384,6 +384,13 @@
       "email": "test@test.com",
       "password": "123test",
       "id": "58d03a31-9d68-42a4-9513-89d40e59b75a"
+    },
+    {
+      "firstName": "test",
+      "lastName": "test",
+      "email": "virgile.prevalet@laposte.net",
+      "password": "test",
+      "id": "c16b198a-1bba-49f2-a322-f63a47b3970b"
     }
   ]
 }
