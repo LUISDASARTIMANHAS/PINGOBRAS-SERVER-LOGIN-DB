@@ -391,6 +391,13 @@
       "email": "virgile.prevalet@laposte.net",
       "password": "test",
       "id": "c16b198a-1bba-49f2-a322-f63a47b3970b"
+    },
+    {
+      "firstName": "asd",
+      "lastName": "asd",
+      "email": "asdasd",
+      "password": "asdasd",
+      "id": "9b4589db-43b5-4e05-99d4-a23859955a43"
     }
   ]
 }
