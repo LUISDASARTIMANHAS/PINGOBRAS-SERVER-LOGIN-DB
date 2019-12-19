@@ -412,6 +412,13 @@
       "email": "asd@email.com",
       "password": "123456",
       "id": "c4d2a831-b719-43d1-b86d-872ae7fbfd1d"
+    },
+    {
+      "firstName": "edward",
+      "lastName": "eka",
+      "email": "eddykabwemba@gmail.com",
+      "password": "Eddy1997",
+      "id": "d35e624f-21f7-4da9-8807-a3d22f066bd3"
     }
   ]
 }
