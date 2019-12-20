@@ -419,6 +419,13 @@
       "email": "eddykabwemba@gmail.com",
       "password": "Eddy1997",
       "id": "d35e624f-21f7-4da9-8807-a3d22f066bd3"
+    },
+    {
+      "firstName": "Benny",
+      "lastName": "Makopo",
+      "email": "bennymakopo@gmail.com",
+      "password": "12345678",
+      "id": "0f3e7148-4acc-480a-9ddf-758bd1fadbc6"
     }
   ]
 }
