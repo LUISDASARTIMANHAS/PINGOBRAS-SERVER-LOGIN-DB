@@ -426,6 +426,20 @@
       "email": "bennymakopo@gmail.com",
       "password": "12345678",
       "id": "0f3e7148-4acc-480a-9ddf-758bd1fadbc6"
+    },
+    {
+      "firstName": "sdad",
+      "lastName": "sadasd",
+      "email": "sadad@gms.cg",
+      "password": "asdasadsdasdasdasdaSD",
+      "id": "bd6394ca-eb77-4ee7-9bf1-e5f82e3e1090"
+    },
+    {
+      "firstName": "SDA",
+      "lastName": "ASDA",
+      "email": "sa@gmx.cg",
+      "password": "sa@gmx.cg",
+      "id": "53aeef95-5ad9-49e9-9c3e-062b2dc3b516"
     }
   ]
 }
