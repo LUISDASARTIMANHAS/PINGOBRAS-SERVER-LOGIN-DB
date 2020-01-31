@@ -482,6 +482,13 @@
       "email": "email@email.com",
       "password": "email",
       "id": "28d503c4-3804-4f16-b73b-758969ab3045"
+    },
+    {
+      "firstName": "Alim",
+      "lastName": "Badmus",
+      "email": "alimbadmus239@gmail.com",
+      "password": "AliBad20-08#*#",
+      "id": "0ea669de-5b59-45bf-9b40-e33c7e68d0e1"
     }
   ]
 }
