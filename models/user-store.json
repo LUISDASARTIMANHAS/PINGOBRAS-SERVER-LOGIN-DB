@@ -503,6 +503,13 @@
       "email": "testingbot@example.com",
       "password": "26949",
       "id": "51208aaa-dbc8-4866-83d8-60d96ef098b5"
+    },
+    {
+      "firstName": "Johnny",
+      "lastName": "BeGood",
+      "email": "johnny@mailinator.com",
+      "password": "johnny",
+      "id": "391aa790-5d3d-464b-82e2-e31864055520"
     }
   ]
 }
