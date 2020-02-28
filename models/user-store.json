@@ -510,6 +510,20 @@
       "email": "johnny@mailinator.com",
       "password": "johnny",
       "id": "391aa790-5d3d-464b-82e2-e31864055520"
+    },
+    {
+      "firstName": "Benedek",
+      "lastName": "Szabó",
+      "email": "benedek.szabo2003@gmail.com",
+      "password": "abcdefgh",
+      "id": "19e74751-3175-4178-84f0-1fb3d7e43558"
+    },
+    {
+      "firstName": "Me",
+      "lastName": "Cool",
+      "email": "",
+      "password": "",
+      "id": "f8a516ae-112c-4109-bb28-3c96a7176fb2"
     }
   ]
 }
