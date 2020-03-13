@@ -545,6 +545,20 @@
       "email": "wrightjackson274@gmail.com",
       "password": "beeftaco",
       "id": "5d6894db-e98f-452b-9606-d3c7dd924616"
+    },
+    {
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test@gmail.com",
+      "password": "nadal1996",
+      "id": "4c862ca7-c09d-4ecd-aff2-2e703a62fbeb"
+    },
+    {
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test1@gmail.com",
+      "password": "nadal1996",
+      "id": "fe274230-954f-421f-a8b1-fa51b69f2ac4"
     }
   ]
 }
