@@ -678,6 +678,13 @@
       "email": "1234@gmail.com",
       "password": "1234",
       "id": "15dd70ae-2fef-46ff-90ad-8b0765ac07e5"
+    },
+    {
+      "firstName": "James",
+      "lastName": "McGraw",
+      "email": "jimz8030@gmail.com",
+      "password": "Bobyjack1",
+      "id": "9541f778-acb9-490b-a1ca-80cbdfbcc593"
     }
   ]
 }
