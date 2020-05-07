@@ -783,6 +783,13 @@
       "email": "aibersoonuwu@gmail.com",
       "password": "31725821a",
       "id": "c3d23289-8bba-4dcf-9f71-13233eb55029"
+    },
+    {
+      "firstName": "Abu",
+      "lastName": "Zach",
+      "email": "abu@gmail.com",
+      "password": "abuzach",
+      "id": "7afcdbc9-bfcc-4e6b-8fe4-2e5b8de3c94a"
     }
   ]
 }
