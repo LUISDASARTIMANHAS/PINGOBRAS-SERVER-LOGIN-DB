@@ -797,6 +797,13 @@
       "email": "test",
       "password": "test",
       "id": "27abdb7f-f029-40a1-a2f7-5daa5d754734"
+    },
+    {
+      "firstName": "hector",
+      "lastName": "barriento",
+      "email": "hectorbarientos156@gmail.com",
+      "password": "teamomama123",
+      "id": "35c1ba40-6d45-4121-97dc-45f6c5bba1b8"
     }
   ]
 }
