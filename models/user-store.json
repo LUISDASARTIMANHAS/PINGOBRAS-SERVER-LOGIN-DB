@@ -825,6 +825,13 @@
       "email": "tes@example.com",
       "password": "1234",
       "id": "54cd74d7-06e7-44b1-af8e-d86d12a1fb9b"
+    },
+    {
+      "firstName": "Johan ",
+      "lastName": "Pedro",
+      "email": "steamjohan4565@gmail.com",
+      "password": "227263539Ab",
+      "id": "d6d96fd9-8339-44a2-9dce-6f97e443c66c"
     }
   ]
 }
