@@ -839,6 +839,13 @@
       "email": "farahnaber03@gmail.com",
       "password": "F2852008",
       "id": "90e3e2ad-6d5f-40a2-b3cf-a4ec48aaddc4"
+    },
+    {
+      "firstName": "Dude",
+      "lastName": "Perfect",
+      "email": "t@b.com",
+      "password": "sarah",
+      "id": "51c248fb-c874-49f4-95da-92981d00f302"
     }
   ]
 }
