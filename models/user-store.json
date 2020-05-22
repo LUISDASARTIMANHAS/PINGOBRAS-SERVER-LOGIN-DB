@@ -860,6 +860,13 @@
       "email": "Aa",
       "password": "aa",
       "id": "33e5ed13-eb65-4ca0-a53c-75c55496ad73"
+    },
+    {
+      "firstName": "deneme",
+      "lastName": "deneme",
+      "email": "oyunkrali229@gmail.com",
+      "password": "oki1234",
+      "id": "51d1f291-2d9d-44e7-97a2-a9f3da6bad3e"
     }
   ]
 }
