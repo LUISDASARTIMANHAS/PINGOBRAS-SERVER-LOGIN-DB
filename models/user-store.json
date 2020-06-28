@@ -937,6 +937,13 @@
       "email": "123456@gmail.com",
       "password": "1234567890",
       "id": "286fb6ca-1c36-4cf9-bc26-8996f60e9d55"
+    },
+    {
+      "firstName": "test",
+      "lastName": "test2",
+      "email": "test123@gmail.com",
+      "password": "testingOnly",
+      "id": "69be90e8-f7bd-4dc0-906f-cf030f1f20b1"
     }
   ]
 }
