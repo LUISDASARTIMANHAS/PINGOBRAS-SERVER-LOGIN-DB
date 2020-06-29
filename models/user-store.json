@@ -944,6 +944,13 @@
       "email": "test123@gmail.com",
       "password": "testingOnly",
       "id": "69be90e8-f7bd-4dc0-906f-cf030f1f20b1"
+    },
+    {
+      "firstName": "Abu",
+      "lastName": "Zach",
+      "email": "lolman@gmail.com",
+      "password": "LOLLOL",
+      "id": "a1c0d680-3a26-48ff-a888-1cb7eddc50af"
     }
   ]
 }
