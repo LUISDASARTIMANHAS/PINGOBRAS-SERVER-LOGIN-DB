@@ -972,6 +972,13 @@
       "email": "",
       "password": "",
       "id": "055de272-541e-4985-a163-b67883c0ec37"
+    },
+    {
+      "firstName": "Kai",
+      "lastName": "Baker",
+      "email": "kailawsonbaker@gmail.com",
+      "password": "MAPLEWOOD",
+      "id": "3bc23052-bd0b-4f89-9f6e-803802dc9959"
     }
   ]
 }
