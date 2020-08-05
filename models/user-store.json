@@ -1007,6 +1007,13 @@
       "email": "asopdaspod",
       "password": "asopkdasopdkasopdask",
       "id": "a3486643-e6d0-4aad-bc70-fcedff2555b9"
+    },
+    {
+      "firstName": "James",
+      "lastName": "Geraghty",
+      "email": "jamesgeraghty@live.ie",
+      "password": "123",
+      "id": "48dde1a7-34e3-4df1-a9a5-28025f57d938"
     }
   ]
 }
