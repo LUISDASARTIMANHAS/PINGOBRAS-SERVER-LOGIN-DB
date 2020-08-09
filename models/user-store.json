@@ -1014,6 +1014,13 @@
       "email": "jamesgeraghty@live.ie",
       "password": "123",
       "id": "48dde1a7-34e3-4df1-a9a5-28025f57d938"
+    },
+    {
+      "firstName": "boomer",
+      "lastName": "hi",
+      "email": "boomer",
+      "password": "hi",
+      "id": "2b9b0124-9d44-4ce2-a12a-84382af1fc53"
     }
   ]
 }
