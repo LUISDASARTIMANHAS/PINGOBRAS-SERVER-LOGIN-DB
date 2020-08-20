@@ -1042,6 +1042,20 @@
       "email": "pp@gmail.com",
       "password": "pp",
       "id": "980e171f-7184-4321-992c-92a92214c4a9"
+    },
+    {
+      "firstName": "Blast",
+      "lastName": "Lindu",
+      "email": "teste@gmail.com",
+      "password": "12345678",
+      "id": "cfdd07e5-b2c9-470c-aef3-1f9d82028e60"
+    },
+    {
+      "firstName": "Blast",
+      "lastName": "Lindu",
+      "email": "teste@gmail.com",
+      "password": "15903570",
+      "id": "4f85f1d6-5075-4435-955c-7317263e0046"
     }
   ]
 }
