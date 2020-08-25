@@ -1056,6 +1056,13 @@
       "email": "teste@gmail.com",
       "password": "15903570",
       "id": "4f85f1d6-5075-4435-955c-7317263e0046"
+    },
+    {
+      "firstName": "Blast",
+      "lastName": "Lindu",
+      "email": "teste@gmail.com",
+      "password": "1593570",
+      "id": "870f34e4-76a4-42a5-b261-ba1b5a942f72"
     }
   ]
 }
