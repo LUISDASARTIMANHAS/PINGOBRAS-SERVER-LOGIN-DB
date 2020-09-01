@@ -1077,6 +1077,13 @@
       "email": "test@tesssttttt.test",
       "password": "testt",
       "id": "745b182f-6443-437c-8c7e-4dd5b95a59e3"
+    },
+    {
+      "firstName": "Kenzo",
+      "lastName": "Ciletti",
+      "email": "kenzociletti@gmail.com",
+      "password": "Ruben2006",
+      "id": "6ac8c860-d8fb-42ae-b5da-dc5c21018416"
     }
   ]
 }
