@@ -1231,6 +1231,13 @@
       "email": "testt@test.com",
       "password": "test",
       "id": "835585a9-b925-4d6a-b4d4-ffee1e676668"
+    },
+    {
+      "firstName": "Batuhan",
+      "lastName": "Demirtaş",
+      "email": "fbensarfb12@gmail.com",
+      "password": "zaza1212",
+      "id": "591d4e0c-0c85-4b3a-96ef-10d911758202"
     }
   ]
 }
