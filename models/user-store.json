@@ -1245,6 +1245,13 @@
       "email": "abcd@gmail.com",
       "password": "1234adcd",
       "id": "3d9dad7a-d530-4da2-9beb-ec0c57267b2e"
+    },
+    {
+      "firstName": "Matthew",
+      "lastName": "Tanious",
+      "email": "matthewtanious@hotmail.com",
+      "password": "Thursday24",
+      "id": "55065bfc-22f4-40e1-a95a-e27bdc59f8f5"
     }
   ]
 }
