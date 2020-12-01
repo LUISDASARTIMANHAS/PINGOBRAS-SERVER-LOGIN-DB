@@ -28,7 +28,13 @@
       "id": "44380bea-98c0-4013-bc1b-99ab582a2869",
       "userid": "75c55d12-1739-4e7e-a92d-7458151764de",
       "title": "periodontia",
-      "bookmarks": []
+      "bookmarks": [
+        {
+          "id": "d914de78-fa73-41d0-8ed2-195953ba534e",
+          "link": "",
+          "website": ""
+        }
+      ]
     },
     {
       "id": "5d80da2e-1b06-41b1-8021-1f007a104d1e",
@@ -52,6 +58,12 @@
       "id": "b4b8dc6f-b1f8-4796-a1ff-63bebe6077f8",
       "userid": "10a1824b-12cd-418e-b4b0-bf60076e5a89",
       "title": "website",
+      "bookmarks": []
+    },
+    {
+      "id": "8217a172-f0fc-4df9-ac68-527c66a2d442",
+      "userid": "75c55d12-1739-4e7e-a92d-7458151764de",
+      "title": "asdasdsad",
       "bookmarks": []
     }
   ]
