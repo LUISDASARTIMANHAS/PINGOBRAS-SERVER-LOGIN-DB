@@ -1287,6 +1287,13 @@
       "email": "tiagig@glitch.com",
       "password": "ragint",
       "id": "60245764-6606-4c5a-bd0c-107db529b692"
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "id": "3c64d029-e0ac-47b7-b35d-e8b18b0315c4"
     }
   ]
 }
