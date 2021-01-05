@@ -1301,6 +1301,13 @@
       "email": "solis.excalibur@gmail.com",
       "password": "Kamigami.exe",
       "id": "4d1ad64d-aa3a-4c1f-b0f2-7ac14b51d1d6"
+    },
+    {
+      "firstName": "ddd",
+      "lastName": "ddd",
+      "email": "test@gmail.com",
+      "password": "test",
+      "id": "189e3f0d-75af-42a0-b955-f08f74be1273"
     }
   ]
 }
