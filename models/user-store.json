@@ -1308,6 +1308,13 @@
       "email": "test@gmail.com",
       "password": "test",
       "id": "189e3f0d-75af-42a0-b955-f08f74be1273"
+    },
+    {
+      "firstName": "Tiago",
+      "lastName": "Sousa",
+      "email": "tiagorangel2011@gmail.com",
+      "password": "rangeldo3434",
+      "id": "2a46ec54-dc42-4337-997d-847f1749965a"
     }
   ]
 }
