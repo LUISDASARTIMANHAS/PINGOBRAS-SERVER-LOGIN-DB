@@ -1315,6 +1315,13 @@
       "email": "tiagorangel2011@gmail.com",
       "password": "rangeldo3434",
       "id": "2a46ec54-dc42-4337-997d-847f1749965a"
+    },
+    {
+      "firstName": "Naruto ",
+      "lastName": "Uzumaki",
+      "email": "narutouzumaki@gmail.com",
+      "password": "85688568",
+      "id": "7c99d528-b720-4ccd-a48c-4e8e02bc0320"
     }
   ]
 }
