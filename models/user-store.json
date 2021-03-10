@@ -1329,6 +1329,13 @@
       "email": "e",
       "password": "r",
       "id": "c7408ab4-b5b3-44f9-8e3a-4e36b197ec4a"
+    },
+    {
+      "firstName": "Kenzo",
+      "lastName": "Ciletti",
+      "email": "kenzociletti@gmail.com",
+      "password": "Merde2006",
+      "id": "96efad1f-4615-4dd0-8077-76e7246896a6"
     }
   ]
 }
