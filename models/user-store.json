@@ -1378,6 +1378,13 @@
       "email": "bigbobby@flay.com",
       "password": "!",
       "id": "35ce3903-bf1f-406d-8101-71c5a4f5723e"
+    },
+    {
+      "firstName": "Jaap",
+      "lastName": "Bergmans",
+      "email": "jaap@live.nl",
+      "password": "Hallo123!",
+      "id": "f33075d9-fa7c-40f4-a79f-c5a2bbcd5858"
     }
   ]
 }
