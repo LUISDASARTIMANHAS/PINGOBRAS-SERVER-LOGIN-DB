@@ -1441,6 +1441,13 @@
       "email": "9090-90-9",
       "password": "bigT0501",
       "id": "0158801c-a256-4ecb-bf7d-16ae4986b70d"
+    },
+    {
+      "firstName": "jhon",
+      "lastName": "doe",
+      "email": "jhonny@ger.cp",
+      "password": "123",
+      "id": "e424ff1e-c405-47ac-9b45-217a325f340b"
     }
   ]
 }
