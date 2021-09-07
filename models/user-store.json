@@ -1490,6 +1490,13 @@
       "email": "",
       "password": "",
       "id": "24b7b4cb-4f08-4783-b482-d98364ad1931"
+    },
+    {
+      "firstName": "Carolyn",
+      "lastName": "smith",
+      "email": "all-about-computers@techie.com",
+      "password": "12345678",
+      "id": "e2431d7c-f218-44a0-9c50-fe32cfee3c9d"
     }
   ]
 }
