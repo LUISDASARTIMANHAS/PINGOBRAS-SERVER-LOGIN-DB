@@ -1504,6 +1504,20 @@
       "email": "caca@gmail.com",
       "password": "Patatasfritas",
       "id": "fd058fe4-a7e5-4cb2-8bf3-ff6f71ddde0b"
+    },
+    {
+      "firstName": "FuraFura",
+      "lastName": "Mentaiko",
+      "email": "furamen@example.com",
+      "password": "furafuramentaiko",
+      "id": "2c025fa0-b45b-4ba7-b601-09bc4ac40b29"
+    },
+    {
+      "firstName": "FuraFura",
+      "lastName": "Mentaiko",
+      "email": "furamen@example.com",
+      "password": "furafuramentaiko",
+      "id": "f221adea-269b-427e-8a8e-3042eb6afafd"
     }
   ]
 }
