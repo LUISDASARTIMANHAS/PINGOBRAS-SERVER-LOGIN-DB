@@ -1518,6 +1518,20 @@
       "email": "furamen@example.com",
       "password": "furafuramentaiko",
       "id": "f221adea-269b-427e-8a8e-3042eb6afafd"
+    },
+    {
+      "firstName": "bob",
+      "lastName": "jenkins",
+      "email": "kdsajfads@gmail.com",
+      "password": "abc123",
+      "id": "16565578-b4db-45a0-8897-715c7ed26ed4"
+    },
+    {
+      "firstName": "Andy",
+      "lastName": "Smith",
+      "email": "bob@gmail.com",
+      "password": "abc123",
+      "id": "2b2927fe-a813-481d-aae7-f504bd11f68a"
     }
   ]
 }
