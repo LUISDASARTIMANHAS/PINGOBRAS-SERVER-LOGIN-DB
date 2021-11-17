@@ -1532,6 +1532,13 @@
       "email": "bob@gmail.com",
       "password": "abc123",
       "id": "2b2927fe-a813-481d-aae7-f504bd11f68a"
+    },
+    {
+      "firstName": "Phan",
+      "lastName": "Vũ",
+      "email": "phanvupro74@gmail.com",
+      "password": "vupc122874",
+      "id": "7861b177-f6e5-4a5a-9b4d-a359e8be2797"
     }
   ]
 }
