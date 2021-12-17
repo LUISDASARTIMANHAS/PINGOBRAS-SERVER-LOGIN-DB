@@ -1567,6 +1567,13 @@
       "email": "eh",
       "password": "v",
       "id": "37865777-8c07-4fb1-9c01-e5489d6790eb"
+    },
+    {
+      "firstName": "master",
+      "lastName": "raider",
+      "email": "fakeEmail@gmail.com",
+      "password": "masterofthesundandearth",
+      "id": "eeaa7a1b-2085-4289-9e2e-68175313f58e"
     }
   ]
 }
