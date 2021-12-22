@@ -1574,6 +1574,13 @@
       "email": "fakeEmail@gmail.com",
       "password": "masterofthesundandearth",
       "id": "eeaa7a1b-2085-4289-9e2e-68175313f58e"
+    },
+    {
+      "firstName": "mehmet",
+      "lastName": "kiş",
+      "email": "erenaksoy2109@gmail.com",
+      "password": "123456789",
+      "id": "df72bcc8-23e1-4b6e-b418-c49238788ab5"
     }
   ]
 }
