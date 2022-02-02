@@ -1602,6 +1602,13 @@
       "email": "testy@mctest.com",
       "password": "123456qwertyW^^",
       "id": "97dfd729-2829-45a2-86e0-2fdd5d65aecd"
+    },
+    {
+      "firstName": "test",
+      "lastName": "test",
+      "email": "rylinervin@gmail.com",
+      "password": "123",
+      "id": "ec0e41de-3c67-46c9-bd5d-289465d88415"
     }
   ]
 }
