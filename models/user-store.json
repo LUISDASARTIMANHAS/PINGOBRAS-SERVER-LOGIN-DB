@@ -1644,6 +1644,13 @@
       "email": "asdas@asdasd.com",
       "password": "123456",
       "id": "bc002215-170f-41ea-a8ab-ab8bece09cb8"
+    },
+    {
+      "firstName": "joe",
+      "lastName": "mama",
+      "email": "joemama @ mama.nl",
+      "password": "joemama",
+      "id": "51732cb7-a144-45d4-932c-8a159c1227e1"
     }
   ]
 }
