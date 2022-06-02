@@ -1686,6 +1686,13 @@
       "email": "trixeysupremeyt@trixeymarket.ezyro.com",
       "password": "Bryandrea2009$",
       "id": "391ae2e8-b70f-45bf-b183-741199cfa190"
+    },
+    {
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test",
+      "password": "test",
+      "id": "382beae3-3e27-44b2-b855-053b88414551"
     }
   ]
 }
