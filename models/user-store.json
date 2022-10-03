@@ -1707,6 +1707,13 @@
       "email": "hello@example.com",
       "password": "testing123",
       "id": "710f9edd-3865-4d53-9b36-f1eaff296c66"
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "jhonny@ger.cp",
+      "password": "123",
+      "id": "cff3d07e-e123-4e30-ae50-36dc633138ec"
     }
   ]
 }
