@@ -1,12 +1,75 @@
-{{> welcomemenu id="index" }}
+{{> welcomemenu id="login" }}
 
 <form class="ui inverted stacked segment form" action="/authenticate" method="POST">
-  <h3 class="ui header">Log-in</h3>
-  <div class="field">
-    <label>Email</label> <input placeholder="Email" name="email">
-  </div>
-  <div class="field">
-    <label>Password</label> <input type="password"  name="password">
-  </div>
-  <button class="ui blue submit button">Login</button>
+  <h1>LOGIN PINGOBRAS S.A</h1>
+        <script type="text/javascript" 
+                  src="https://usuariosonline.s12.com.br/uo-b7aay0C7Z27zdAd1-52-1.js">
+          </script>
+          <br>
+          <img 
+               src="https://usuariosonline.s12.com.br/selo/selo-uo.gif" 
+               alt="usuários on-line" 
+               border="0">
+        <js id="msgError" class="msg-Error">Nenhum Erro Encontrado!</js>
+        <js id="msgSuccess" class="msg-Success">Verificando...</js>
+        
+        
+      <label-float>
+      <label-login for="usuario" id="userLabel" > USUARIO </label-login>
+      <br>
+      <input
+      class="input-float-login"       
+      type="text"
+      id="usuario"
+      placeholder="NOME" required>
+      <br>
+      <br>
+        <js class="alert" id="userCad">Sem Usuarios cadastrados</js>
+        <js class="alert" id="userCad2">Sem Usuarios cadastrados</js>
+        <js class="alert" id="userCad3">Sem Usuarios cadastrados</js>
+        <js class="alert" id="userCad4">Sem Usuarios cadastrados</js>
+        <js class="alert" id="userCad5">Sem Usuarios cadastrados</js>
+        <js class="alert" id="userCad6">Sem Usuarios cadastrados</js>
+        <js class="alert" id="userCad7">Sem Usuarios cadastrados</js>
+        <js class="alert" id="userCad8">Sem Usuarios cadastrados</js>
+      </label-float>
+        
+        <br>
+        <br>
+        
+      <label-float>  
+      <label-login for="senha" id="senhaLabel"> SENHA </label-login>
+      <br>
+      <input 
+      class="input-float-login"       
+      type="password" 
+      id="senha"
+      placeholder="******" required>
+       <img 
+        src="https://cdn-icons-png.flaticon.com/512/1621/1621629.png"
+        id="verSenhaLogin" 
+        height="37px"
+        class="faeye"
+        style="background-color:#ffffff;
+               cursor:pointer;
+               display:inline-block !important;
+               margin-bottom:-10px;"/> 
+      </label-float> 
+        
+        <separador></separador>
+        
+      <p-cadastro>
+        ESQUECEU SUA SENHA?
+        <a 
+           href="https://pingobras-404.glitch.me" 
+           links>
+          trocar senha
+        </a>
+        </p-cadastro>
+      <button style="border: 5px solid white;"
+              class="btn-entrar"
+              id="autenticador" 
+              onclick="autenticar()">
+        Entrar
+        </button>
 </form>
